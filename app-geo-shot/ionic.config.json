@@ -1,0 +1,7 @@
+{
+  "name": "app-geo-shot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
